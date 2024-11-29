@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/product_id_alert_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Product ID"
+        android:background="@drawable/rounded_edittext_background" />
+
+    <EditText
+        android:id="@+id/product_name_alert_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Product Name"
+        android:background="@drawable/rounded_edittext_background" />
+
+    <EditText
+        android:id="@+id/alert_amt_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Alert Amount"
+        android:background="@drawable/rounded_edittext_background" />
+
+    <EditText
+        android:id="@+id/items_alert_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Items"
+        android:background="@drawable/rounded_edittext_background" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="8dp">
+
+        <!-- Corrected Button Tag -->
+        <Button
+            android:id="@+id/confirm_set_alert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Set Alert"
+            android:background="@drawable/rounded_edittext_background"
+             /> <!-- Closed properly -->
+
+        <!-- Second Button -->
+        <Button
+            android:id="@+id/cancel_set_alert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:layout_marginStart="16dp"
+            android:background="@drawable/rounded_edittext_background" /> <!-- Closed properly -->
+
+    </LinearLayout>
+
+</LinearLayout>
+

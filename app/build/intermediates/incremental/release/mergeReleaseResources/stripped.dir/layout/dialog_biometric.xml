@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                  
+                                             
+
+    
+                 
+                              
+                            
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="@color/red" android:tag="layout/dialog_biometric_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" tools:context=".BiometricDialogFragment">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Biometric Login"
+            android:textSize="24sp"
+            android:textColor="@color/golden_yellow"
+            android:layout_gravity="center" />
+
+        <Button
+            android:id="@+id/buttonBiometricLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Login with Fingerprint"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/rounded_btn"
+            android:textColor="@color/red" />
+    </LinearLayout>
+         

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\edit_alert_stock_dialog_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\edit_alert_stock_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\fragment_inventory.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\fragment_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\nav_item.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\nav_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\order_summary_section.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\order_summary_section.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\menu_item_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\edit_stock_dialog_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\edit_stock_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\place_order_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\place_order_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\activity_base.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\activity_reset_password.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\dialog_new_stock.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\dialog_new_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeDebugResources-71:/layout/menu_item_layout.xml",
+        "source": "com.example.sisig.app-main-74:/layout/menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\order_item.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\order_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\notif_item.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\notif_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\fragment_report.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\fragment_notification.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\dialog_set_alert.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\dialog_set_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\dialog_biometric.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\dialog_biometric.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-71:\\layout\\order_summary_item.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-74:\\layout\\order_summary_item.xml"
+    }
+]

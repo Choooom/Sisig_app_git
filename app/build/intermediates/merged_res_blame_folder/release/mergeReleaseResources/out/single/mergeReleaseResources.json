@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_add_pang_barkada.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/add_pang_barkada.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_rounded_corner.xml.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.sisig.app-main-69:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/xml_network_security_config.xml.flat",
+        "source": "com.example.sisig.app-main-69:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_activity_base.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/activity_base.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_recycler_view.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/recycler_view.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_placeholder.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/placeholder.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_login_background.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/login_background.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sisig.app-main-69:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sisig.app-main-69:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/menu_menu_menu.xml.flat",
+        "source": "com.example.sisig.app-main-69:/menu/menu_menu.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/menu_menu.xml.flat",
+        "source": "com.example.sisig.app-main-69:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_lined_bg.xml.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/lined_bg.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sisig.app-main-69:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_nav_item.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/nav_item.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_happiness.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/happiness.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_dots.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/dots.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_fragment_home.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sisig.app-main-69:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_add_share_kami.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/add_share_kami.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.sisig.app-main-69:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_dialog_set_alert.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/dialog_set_alert.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_dialog_biometric.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/dialog_biometric.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_add_pang_pamilya.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/add_pang_pamilya.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/xml_backup_rules.xml.flat",
+        "source": "com.example.sisig.app-main-69:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_ic_home.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/ic_home.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_share_kami.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/share_kami.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_activity_main.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_ic_report.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/ic_report.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.sisig.app-main-69:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_menu_item_layout.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/menu_item_layout.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sisig.app-main-69:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_fragment_inventory.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/fragment_inventory.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_pang_pamilya.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/pang_pamilya.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_sisig_akinlang.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/sisig_akinlang.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_place_order_layout.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/place_order_layout.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_rounded_edittext_background.xml.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/rounded_edittext_background.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_fragment_report.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sisig.app-main-69:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_logo_nobg.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/logo_nobg.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_icon_add_last.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/icon_add_last.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_ic_notification.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/ic_notification.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_pang_barkada.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/pang_barkada.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_login_formbg.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/login_formbg.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/color_state_list.xml.flat",
+        "source": "com.example.sisig.app-main-69:/color/state_list.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_ic_home2.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/ic_home2.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_rounded_btn.xml.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/rounded_btn.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_add_akin_lang.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/add_akin_lang.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.sisig.app-main-69:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_fragment_notification.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_activity_reset_password.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/activity_reset_password.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_ic_settings.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/ic_settings.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_input_text_bg.xml.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/input_text_bg.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_fragment_settings.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/layout_dialog_new_stock.xml.flat",
+        "source": "com.example.sisig.app-main-69:/layout/dialog_new_stock.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.sisig.app-main-69:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_ic_inventory.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/ic_inventory.png"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sisig.app-main-69:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_card_bg.xml.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sisig.app-main-69:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sisig.app-release-68:/drawable_login_form.png.flat",
+        "source": "com.example.sisig.app-main-69:/drawable/login_form.png"
+    }
+]

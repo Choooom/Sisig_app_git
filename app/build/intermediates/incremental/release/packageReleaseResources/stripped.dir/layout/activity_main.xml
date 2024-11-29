@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    android:background="@color/red"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@drawable/lined_bg"
+        android:paddingTop="110dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:paddingBottom="42dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:textSize="44sp"
+            android:textStyle="bold"
+            android:textColor="@color/golden_yellow"
+            android:layout_marginBottom="24dp" />
+
+        <EditText
+            android:id="@+id/editTextUsername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Username"
+            android:inputType="text"
+            android:background="@drawable/input_text_bg"
+            android:textColor="@color/red"
+            android:padding="24dp"
+            android:layout_marginBottom="16dp"
+            android:textColorHint="@color/red" />
+
+        <EditText
+            android:id="@+id/editTextPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:background="@drawable/input_text_bg"
+            android:textColor="@color/red"
+            android:padding="24dp"
+            android:layout_marginBottom="16dp"
+            android:textColorHint="@color/red" />
+
+        <TextView
+            android:id="@+id/textViewResetPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Forgot Password?"
+            android:textColor="@color/golden_yellow"
+            android:clickable="true"
+            android:focusable="true"
+            android:layout_gravity="end"
+            android:textSize="12sp"
+            android:layout_below="@id/editTextPassword"
+            android:layout_marginTop="-8dp"
+            android:layout_marginEnd="12dp"
+            android:background="?attr/selectableItemBackground"/>
+
+        <Button
+            android:id="@+id/buttonLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:layout_marginTop="22dp"
+            android:background="@drawable/rounded_btn"
+            android:textColor="@color/red" />
+
+        <TextView
+            android:id="@+id/textViewBiometricLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Login with Fingerprint"
+            android:background="@drawable/lined_bg"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:textColor="@color/golden_yellow"
+            android:textSize="16sp"
+            android:padding="12dp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageViewLogo"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:src="@drawable/logo_nobg"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginTop="-620dp" />
+
+</LinearLayout>
