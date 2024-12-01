@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-75:\\layout\\edit_stock_dialog_layout.xml",
-        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\edit_stock_dialog_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-75:\\layout\\activity_main.xml",
         "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-75:\\layout\\edit_stock_dialog_layout.xml",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\edit_stock_dialog_layout.xml"
     },
     {
         "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-mergeDebugResources-75:\\layout\\activity_dashboard.xml",

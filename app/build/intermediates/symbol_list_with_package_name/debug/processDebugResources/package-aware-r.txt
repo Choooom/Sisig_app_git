@@ -3440,6 +3440,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id salesChart
 id sales_title
 id saveChangesButton
 id save_non_transition_alpha

@@ -12,6 +12,7 @@ import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.sisig.R;
+import com.github.mikephil.charting.charts.LineChart;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -36,6 +37,9 @@ public final class FragmentReportBinding implements ViewBinding {
   public final TextView monthlySalesAmount;
 
   @NonNull
+  public final LineChart salesChart;
+
+  @NonNull
   public final TextView salesTitle;
 
   @NonNull
@@ -47,14 +51,15 @@ public final class FragmentReportBinding implements ViewBinding {
   private FragmentReportBinding(@NonNull LinearLayout rootView, @NonNull LinearLayout dailySales,
       @NonNull TextView dailySalesAmount, @NonNull Button generateReportButton,
       @NonNull LinearLayout monthlySales, @NonNull TextView monthlySalesAmount,
-      @NonNull TextView salesTitle, @NonNull LinearLayout yearlySales,
-      @NonNull TextView yearlySalesAmount) {
+      @NonNull LineChart salesChart, @NonNull TextView salesTitle,
+      @NonNull LinearLayout yearlySales, @NonNull TextView yearlySalesAmount) {
     this.rootView = rootView;
     this.dailySales = dailySales;
     this.dailySalesAmount = dailySalesAmount;
     this.generateReportButton = generateReportButton;
     this.monthlySales = monthlySales;
     this.monthlySalesAmount = monthlySalesAmount;
+    this.salesChart = salesChart;
     this.salesTitle = salesTitle;
     this.yearlySales = yearlySales;
     this.yearlySalesAmount = yearlySalesAmount;
@@ -117,6 +122,12 @@ public final class FragmentReportBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.salesChart;
+      LineChart salesChart = ViewBindings.findChildViewById(rootView, id);
+      if (salesChart == null) {
+        break missingId;
+      }
+
       id = R.id.sales_title;
       TextView salesTitle = ViewBindings.findChildViewById(rootView, id);
       if (salesTitle == null) {
@@ -136,8 +147,8 @@ public final class FragmentReportBinding implements ViewBinding {
       }
 
       return new FragmentReportBinding((LinearLayout) rootView, dailySales, dailySalesAmount,
-          generateReportButton, monthlySales, monthlySalesAmount, salesTitle, yearlySales,
-          yearlySalesAmount);
+          generateReportButton, monthlySales, monthlySalesAmount, salesChart, salesTitle,
+          yearlySales, yearlySalesAmount);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -86,6 +86,7 @@ MERGED from [androidx.test.services:storage:1.5.0] C:\Users\romil\.gradle\caches
 MERGED from [androidx.test:monitor:1.7.1] C:\Users\romil\.gradle\caches\8.9\transforms\734322b2dff98d5df5e24b7121142b09\transformed\monitor-1.7.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\romil\.gradle\caches\8.9\transforms\edabdd179f5c0302c84f03fcbde4a68a\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\romil\.gradle\caches\8.9\transforms\b252d691775eda7aa35efd86bdea0031\transformed\sqlite-2.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\romil\.gradle\caches\8.9\transforms\b35a9bc2368b038166aa39154efc6d05\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\romil\.gradle\caches\8.9\transforms\48be3f4cfde3b78cbd8876b38962e24f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\romil\.gradle\caches\8.9\transforms\494abfb5a91c7426e8848f2c0377c0f1\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\romil\.gradle\caches\8.9\transforms\22edf18eb21449ef774c51ea65d335dd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
@@ -397,6 +398,8 @@ MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\romil\.gradle\cach
 MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\romil\.gradle\caches\8.9\transforms\edabdd179f5c0302c84f03fcbde4a68a\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\romil\.gradle\caches\8.9\transforms\b252d691775eda7aa35efd86bdea0031\transformed\sqlite-2.3.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\romil\.gradle\caches\8.9\transforms\b252d691775eda7aa35efd86bdea0031\transformed\sqlite-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\romil\.gradle\caches\8.9\transforms\b35a9bc2368b038166aa39154efc6d05\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\romil\.gradle\caches\8.9\transforms\b35a9bc2368b038166aa39154efc6d05\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\romil\.gradle\caches\8.9\transforms\48be3f4cfde3b78cbd8876b38962e24f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\romil\.gradle\caches\8.9\transforms\48be3f4cfde3b78cbd8876b38962e24f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\romil\.gradle\caches\8.9\transforms\494abfb5a91c7426e8848f2c0377c0f1\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44

@@ -1,6 +1,7 @@
 package com.example.sisig
 
 import android.app.DatePickerDialog
+import android.graphics.Color
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -10,7 +11,14 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.lifecycleScope
+import com.example.sisig.data.AllOrder
 import com.example.sisig.data.AppDatabase
+import com.github.mikephil.charting.charts.LineChart
+import com.github.mikephil.charting.components.XAxis
+import com.github.mikephil.charting.data.Entry
+import com.github.mikephil.charting.data.LineData
+import com.github.mikephil.charting.data.LineDataSet
+import com.github.mikephil.charting.formatter.ValueFormatter
 import kotlinx.coroutines.launch
 import java.util.*
 
@@ -19,6 +27,8 @@ class ReportActivity : Fragment() {
     private lateinit var dailySalesTextView: TextView
     private lateinit var monthlySalesTextView: TextView
     private lateinit var yearlySalesTextView: TextView
+
+    private lateinit var salesChart: LineChart
 
     companion object {
         fun newInstance(): ReportActivity {
@@ -44,7 +54,55 @@ class ReportActivity : Fragment() {
             showDatePicker()
         }
 
+        salesChart = view.findViewById(R.id.salesChart)
+        setupChart()
+
         return view
+    }
+
+    private fun setupChart() {
+        salesChart.apply {
+            description.isEnabled = false
+            setTouchEnabled(true)
+            isDragEnabled = true
+            setScaleEnabled(true)
+            setPinchZoom(true)
+            setDrawGridBackground(false)
+
+            xAxis.apply {
+                position = XAxis.XAxisPosition.BOTTOM
+                setDrawGridLines(false)
+            }
+
+            axisLeft.apply {
+                setDrawGridLines(true)
+                valueFormatter = object : ValueFormatter() {
+                    override fun getFormattedValue(value: Float): String {
+                        return "₱${value.toInt()}"
+                    }
+                }
+            }
+
+            axisRight.isEnabled = false
+            legend.isEnabled = true
+        }
+    }
+
+    private fun updateChart(orders: List<AllOrder>) {
+        val entries = orders.mapIndexed { index, order ->
+            Entry(index.toFloat(), order.totalAmount.toFloat())
+        }
+
+        val dataSet = LineDataSet(entries, "Sales").apply {
+            color = Color.RED
+            setCircleColor(Color.RED)
+            lineWidth = 2f
+            circleRadius = 4f
+            setDrawValues(false)
+        }
+
+        salesChart.data = LineData(dataSet)
+        salesChart.invalidate()
     }
 
     private fun generateReport(year: Int, month: Int, day: Int) {
@@ -71,6 +129,8 @@ class ReportActivity : Fragment() {
                 dailySalesTextView.text = String.format("₱%.2f", dailyTotal)
                 monthlySalesTextView.text = String.format("₱%.2f", monthlyTotal)
                 yearlySalesTextView.text = String.format("₱%.2f", yearlyTotal)
+
+                updateChart(orders)
             }
         }
     }

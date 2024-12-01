@@ -159,6 +159,7 @@ id product_name_input
 id quantity
 id recycler_view
 id remove_notification
+id salesChart
 id sales_title
 id saveChangesButton
 id serving

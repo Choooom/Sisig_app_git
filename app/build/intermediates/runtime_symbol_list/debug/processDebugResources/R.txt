@@ -3439,6 +3439,7 @@ int id right_icon 0x7f090199
 int id right_side 0x7f09019a
 int id rounded 0x7f09019b
 int id row_index_key 0x7f09019c
+int id salesChart 0x7f090231
 int id sales_title 0x7f09019d
 int id saveChangesButton 0x7f09019e
 int id save_non_transition_alpha 0x7f09019f
