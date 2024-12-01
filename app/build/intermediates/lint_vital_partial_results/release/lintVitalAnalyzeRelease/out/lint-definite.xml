@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.5.1" type="incidents">
+
+    <incident
+        id="Instantiatable"
+        severity="fatal"
+        message="`HomeActivity` must extend android.app.Activity">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*manifest*0}"
+            line="33"
+            column="33"
+            startOffset="1468"
+            endLine="33"
+            endColumn="46"
+            endOffset="1481"/>
+    </incident>
+
+    <incident
+        id="Instantiatable"
+        severity="fatal"
+        message="`InventoryActivity` must extend android.app.Activity">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*manifest*0}"
+            line="34"
+            column="33"
+            startOffset="1519"
+            endLine="34"
+            endColumn="51"
+            endOffset="1537"/>
+    </incident>
+
+    <incident
+        id="Instantiatable"
+        severity="fatal"
+        message="`ReportActivity` must extend android.app.Activity">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*manifest*0}"
+            line="35"
+            column="33"
+            startOffset="1575"
+            endLine="35"
+            endColumn="48"
+            endOffset="1590"/>
+    </incident>
+
+    <incident
+        id="Instantiatable"
+        severity="fatal"
+        message="`SettingsActivity` must extend android.app.Activity">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*manifest*0}"
+            line="36"
+            column="33"
+            startOffset="1628"
+            endLine="36"
+            endColumn="50"
+            endOffset="1645"/>
+    </incident>
+
+</incidents>

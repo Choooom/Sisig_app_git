@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@android:color/white">
+
+    <!-- First Header: In Stock and +New Stock Button -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- In Stock Title -->
+        <TextView
+            android:id="@+id/in_stock_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In Stock"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true" />
+
+        <!-- +New Stock Button -->
+        <Button
+            android:id="@+id/instock_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+New Stock"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@android:color/holo_blue_dark" />
+    </RelativeLayout>
+
+    <!-- Space between the two sections -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="16dp" />
+
+    <!-- Second Header: Stock Alert and +Set Alert Button -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Stock Alert Title -->
+        <TextView
+            android:id="@+id/stock_alert_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Stock Alert"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true" />
+
+        <!-- +Set Alert Button -->
+        <Button
+            android:id="@+id/set_alert_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+Set Alert"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@android:color/holo_orange_dark" />
+    </RelativeLayout>
+
+    <!-- New Stock Dialog Layout (hidden initially) -->
+    <LinearLayout
+        android:id="@+id/new_stock_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <EditText
+            android:id="@+id/product_name_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Product Name" />
+
+        <EditText
+            android:id="@+id/product_id_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Product ID" />
+
+        <EditText
+            android:id="@+id/items_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Items" />
+
+        <EditText
+            android:id="@+id/category_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Category" />
+
+        <Button
+            android:id="@+id/confirm_new_stock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Confirm" />
+
+        <Button
+            android:id="@+id/cancel_new_stock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel" />
+    </LinearLayout>
+
+    <!-- Set Alert Dialog Layout (hidden initially) -->
+    <LinearLayout
+        android:id="@+id/set_alert_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <EditText
+            android:id="@+id/product_id_alert_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Product ID" />
+
+        <EditText
+            android:id="@+id/product_name_alert_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Product Name" />
+
+        <EditText
+            android:id="@+id/alert_amt_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Alert Amount" />
+
+        <EditText
+            android:id="@+id/items_alert_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Items" />
+
+        <Button
+            android:id="@+id/confirm_set_alert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Set Alert" />
+
+        <Button
+            android:id="@+id/cancel_set_alert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel" />
+    </LinearLayout>
+
+</LinearLayout>
+

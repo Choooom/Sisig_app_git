@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/background_main"
+    android:padding="12dp"
+    android:elevation="4dp">
+
+    <!-- Header for Orders -->
+    <TextView
+        android:id="@+id/order_summary_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Orders"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/red"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Order Item -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/order_item_image"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/rounded_corner"
+            android:scaleType="centerCrop"
+            android:src="@drawable/placeholder"
+            android:layout_marginEnd="12dp" />
+
+        <TextView
+            android:id="@+id/order_item_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Menu Item Name"
+            android:textColor="@color/red"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/decrease_order_quantity"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="-"
+                android:textSize="20sp"
+                android:textColor="@android:color/holo_red_light" />
+
+            <TextView
+                android:id="@+id/order_quantity"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="1"
+                android:textSize="16sp"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/increase_order_quantity"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="+"
+                android:textSize="20sp"
+                android:textColor="@android:color/holo_green_light" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Confirm Order Button -->
+    <Button
+        android:id="@+id/confirm_order_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Confirm Order"
+        android:background="@drawable/rounded_confirm_btn"
+        android:textColor="@color/golden_yellow"
+        android:layout_marginTop="16dp" />
+</LinearLayout>

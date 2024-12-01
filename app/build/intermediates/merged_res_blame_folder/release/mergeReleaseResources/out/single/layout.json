@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/dialog_set_alert.xml",
+        "source": "com.example.sisig.app-main-69:/layout/dialog_set_alert.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/activity_reset_password.xml",
+        "source": "com.example.sisig.app-main-69:/layout/activity_reset_password.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/fragment_notification.xml",
+        "source": "com.example.sisig.app-main-69:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/fragment_inventory.xml",
+        "source": "com.example.sisig.app-main-69:/layout/fragment_inventory.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/nav_item.xml",
+        "source": "com.example.sisig.app-main-69:/layout/nav_item.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/activity_main.xml",
+        "source": "com.example.sisig.app-main-69:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/dialog_biometric.xml",
+        "source": "com.example.sisig.app-main-69:/layout/dialog_biometric.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/fragment_home.xml",
+        "source": "com.example.sisig.app-main-69:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/activity_base.xml",
+        "source": "com.example.sisig.app-main-69:/layout/activity_base.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/activity_dashboard.xml",
+        "source": "com.example.sisig.app-main-69:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/fragment_report.xml",
+        "source": "com.example.sisig.app-main-69:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/menu_item_layout.xml",
+        "source": "com.example.sisig.app-main-69:/layout/menu_item_layout.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/dialog_new_stock.xml",
+        "source": "com.example.sisig.app-main-69:/layout/dialog_new_stock.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/fragment_settings.xml",
+        "source": "com.example.sisig.app-main-69:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/place_order_layout.xml",
+        "source": "com.example.sisig.app-main-69:/layout/place_order_layout.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-mergeReleaseResources-67:/layout/recycler_view.xml",
+        "source": "com.example.sisig.app-main-69:/layout/recycler_view.xml"
+    }
+]

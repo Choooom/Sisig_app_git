@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_dialog_set_alert.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\dialog_set_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\color_state_list.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\color\\state_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_rounded_cancel_btn.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\rounded_cancel_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_warning_box_border.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\warning_box_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_change_icon_icon.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\change_icon_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_bg__1920x1080_.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\bg__1920x1080_.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_notif_item.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\notif_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_happiness.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\happiness.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_rounded_edittext_background.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\rounded_edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_nav_item.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\nav_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_placeholder.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_activity_base.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_icon_edit_inventory.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\icon_edit_inventory.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_edittext_border.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\edittext_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_menu_pangbarkada.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\menu_pangbarkada.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_rounded_place_order.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\rounded_place_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_ic_notification.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_rounded_btn.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\rounded_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_menu_pangpamilya.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\menu_pangpamilya.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_rounded_background.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\rounded_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_logo_nobg.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\logo_nobg.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_icon_edit_inventory_vector.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\icon_edit_inventory_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_edit_alert_stock_dialog_layout.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\edit_alert_stock_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_fragment_inventory.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\fragment_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\menu_menu_menu.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\menu\\menu_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_card_bg.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_rounded_textfield.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\rounded_textfield.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_order_summary_section.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\order_summary_section.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_order_item.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\order_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_dialog_biometric.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\dialog_biometric.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_login_formbg.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\login_formbg.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_ic_report.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\ic_report.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_porky_sisig_logo__shadow___no_text_.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\porky_sisig_logo__shadow___no_text_.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_order_summary_item.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\order_summary_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_input_text_bg.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\input_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_ic_no_notif.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\ic_no_notif.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_rounded_add_decrease_btn.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\rounded_add_decrease_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_lined_bg.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\lined_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_menu_icon.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_place_order_layout.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\place_order_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_border_notification.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\border_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_dots.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\dots.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_ic_settings.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_icon_add_last.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\icon_add_last.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_icon_delete_inventory.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\icon_delete_inventory.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_container_border.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\container_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_fragment_report.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_icon_delete_inventory_vector.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\icon_delete_inventory_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_ic_home2.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\ic_home2.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_ic_inventory.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\ic_inventory.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_menu_akinlang.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\menu_akinlang.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_rounded_add_order_btn.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\rounded_add_order_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_stock_design_btn.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\stock_design_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_generate_report_button.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\generate_report_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_rounded_confirm_btn.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\rounded_confirm_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_porky_sisig_logo__complete_.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\porky_sisig_logo__complete_.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_edit_stock_dialog_layout.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\edit_stock_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_activity_reset_password.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_rounded_textfield_confrim_btn.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\rounded_textfield_confrim_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_ic_home.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_fragment_notification.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "com.example.sisig.app-debug-76:/layout_fragment_report.xml.flat",
+        "source": "com.example.sisig.app-main-78:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\layout_dialog_new_stock.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\layout\\dialog_new_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_login_background.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\login_background.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_login_form.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\login_form.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_menu_sharekami.png.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\menu_sharekami.png"
+    },
+    {
+        "merged": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-debug-76:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\romil\\.gradle\\daemon\\8.9\\com.example.sisig.app-main-78:\\drawable\\ic_launcher_foreground.xml"
+    }
+]
